@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📚 I am a 3rd-year **Computer Engineering and Mathematics student** at Bar Ilan University, Israel
-- 🌱 I am currently learning the courses - **introduction to machine learning**, **digital processing of geometry**  
+- 🌱 I am currently learning the courses - **introduction to machine learning** and **digital processing of geometry**  
            and also I'm learning **Java**
 - 💬 Ask me about **python, c++ or c**
 - 📫 You can reach me at **liri.benzinou@gmail.com**
