@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Liri Benzinou 👋
 
 <!--
 **Liri-Be/Liri-Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 I am a 3rd-year **Computer Engineering and Mathematics student** at Bar Ilan University, Israel
+- 🌱 I am currently learning the courses - **introduction to machine learning**, **digital processing of geometry**  
+           and also I'm learning **Java**
+- 💬 Ask me about **python, c++ or c**
+- 📫 You can reach me at **liri.benzinou@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liri-be&show_icons=true&locale=en&layout=compact" alt="liri-be" /></p>
