@@ -22,4 +22,11 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liri-be&show_icons=true&locale=en&layout=compact&theme=dark" alt="liri-be" /></p>
 <!--START_SECTION:waka-->
+
+```text
+C++        4 hrs 7 mins    ████████████████████████▒   97.17 %
+Assembly   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
 <!--END_SECTION:waka-->
