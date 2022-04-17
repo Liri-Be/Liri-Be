@@ -34,5 +34,7 @@ Other            0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+<!--
 ### Most used languages on github's public repositories
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liri-be&show_icons=true&locale=en&layout=compact&theme=dark&hide_title=false" alt="liri-be" /></p>
+-->
