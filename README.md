@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 I am a 3rd-year **Computer Engineering and Mathematics student** at Bar Ilan University, Israel
-- 🌱 I am currently learning the courses - **introduction to machine learning** and **digital processing of geometry**  
-           and also I'm learning **Java**
-- 💬 Ask me about **python, c++ or c**
+- 📚 I am a 3rd-year **Computer Engineering** and **Mathematics student** at Bar Ilan University, Israel
+- 🌱 I am currently learning the course - **Introduction to Cryptography**  
+            and also I'm learning about **Conformance Checking**
+- 💬 Ask me about **Python, C++** or **OOP**
 - 📫 You can reach me at **liri.benzinou@gmail.com**
 
 ------------------
