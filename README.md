@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 I am a 3rd-year **Computer Engineering** and **Mathematics student** at Bar Ilan University, Israel
+- 📚 I am a 4th-year **Computer Engineering** and **Mathematics student** at Bar Ilan University, Israel
 - 💼 I am working as **Research Assistent** at Bar Ilan University, Israel
 - 🌱 I am currently learning the course - **Introduction to Cryptography**  
             and also I'm learning about **Conformance Checking**
