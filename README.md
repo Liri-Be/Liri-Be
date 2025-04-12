@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 ------------------
 ### Most used languages this week (wakatime)
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 <!--
 ### Most used languages on github's public repositories
