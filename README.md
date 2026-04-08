@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 📚 I am a 4th-year **Computer Engineering** and **Mathematics student** at Bar Ilan University, Israel
+
 - 💼 I am working as **Research Assistent** and **Teaching Assistent** at Bar Ilan University, Israel
-- 🌱 I am currently learning the course - **Cryptographic Protocols and Communication Security**
-            and also I'm learning about **Conformance Checking**
+-->
+- 📚 **Computer Engineering** and **Mathematics** Graduate from Bar Ilan University, Israel
+- 🌱 I am currently learning about LLMs :)
 - 💬 Ask me about **Python**, **OOP** or **C++**
 - 📫 You can reach me at **liri.benzinou@gmail.com**
 
